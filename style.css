@@ -1,0 +1,28 @@
+li {
+    color:#FF0000;
+}
+.comida{
+    font-size: 70px;
+    color:yellow;
+}
+.kawaii{
+    font-size:70px;
+    color:blue;
+
+}
+.r{
+    border: 2px solid orange;
+}
+h1{
+    color:black;
+    border-style: dotted;
+    border-color: purple;
+    border-width: 8px;
+}   
+
+body{
+    background-image: url('crash.gif');
+    background-color:#f1c0e8;
+   
+}
+
